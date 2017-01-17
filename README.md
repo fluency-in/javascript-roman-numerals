@@ -72,7 +72,7 @@ To run a test file, pass it as an argument to the `jasmine-node` command:
 
 ## Source
 
-The Roman Numeral Kata [http://codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals](http://codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals)
+The Roman Numeral Kata [http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals)
 
 This exercise is from the [JavaScript][javascript] track on [Exercism][exercism]
 
